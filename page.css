@@ -64,7 +64,7 @@ li a {
 
 
 body {
-  width: 1200px;
+  width: 1300px;
    margin-top: 150px;
   background-image: url("rainforest3.jpg");
   background-attachment: fixed;
@@ -82,16 +82,27 @@ p {
 
 }
 
+.head {
+    font-size: 15px;
+    top: 0px;
+    left: 4px;
+    margin: 10;
+    color: purple;
+    line-height: 2.4;
+    font-weight: 500;
+    font-family: Futura;
+
+}
+
 p2 {
     font-size: 25px;
     top: 10px;
     left: 4px;
     margin: 10;
     color: #FF6600;
-    line-height: 2.4;
+    line-height: 2.5;
     font-weight: 500;
     font-family: Futura;
-
 
 }
 
@@ -141,7 +152,7 @@ h2 {
   border-width: 2px;
   border-color: #ff9100;
   border-radius: 5px;
-    margin-bottom: 20px;
+   margin-bottom: 0px;
 
   background-color: #f2f2f2;
 }
